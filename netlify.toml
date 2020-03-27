@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/publish/blazorclientapp/dist/"
-to = "/"
-status = 301
+from = "/*"
+to = "/publish/blazorclientapp/dist/index.html"
+status = 200
 force = false
